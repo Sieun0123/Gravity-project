@@ -2,6 +2,7 @@ import React from "react"
 import { FaApple } from "react-icons/fa"
 import { FaGoogle } from "react-icons/fa"
 
+
 export function LoginLeft() {
   return (
     <div className="login-left">
